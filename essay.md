@@ -23,7 +23,7 @@ We will answer to both these questions in a two-parts essay:
 In the conclusion, we will discuss what kind of potential issues this evolution might raise.
 
 ### Agent softwares today
-The way the question is formulated lets use believe that we should rather explain our own personal perception of what software agents are rather than copying definitions found in Wikipedia.
+The way the question is formulated lets us believe that we should rather explain our own personal perception of what software agents are rather than copying definitions found in Wikipedia.
 
 At the time of writing this text, agent-based softwares is a new subject for us.
 
