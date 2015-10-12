@@ -6,9 +6,9 @@ This document is an essay about our perception of agent-based softwares now and 
 - James NOLAN
 - Fernando SUÁREZ
 - Zacarías ROMERO
-- ~~ jaordud ~~
-- ~~ Sergio LÓPEZ ~~
-- ~~ German GARCIA ~~
+- ~~jaordud~~
+- ~~Sergio LÓPEZ~~
+- ~~German GARCIA~~
 
 ## Discussion
 ### Subject
