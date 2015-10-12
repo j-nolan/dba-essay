@@ -1,2 +1,4 @@
-# dba-essay
-The repo for the DBA essay
+# DBA essay
+The essay is available as:
+- [Markdown](essay.md)
+- [PDF](essay.pdf)
