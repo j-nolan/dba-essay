@@ -45,6 +45,8 @@ For example, many searching, sorting or pathfinding algorithms can be paralleliz
 
 It can also be useful to decompose software into agents when we need to emulate real life situations involving many independant components such as crowds (group of persons), trafic (group of cars), fluid dynamics (group of liquid particles). Those simulations allows us to [avoid crowd crushes](http://theconversation.com/heres-how-to-make-the-hajj-safer-by-better-understanding-crowd-psychology-48128), [understand traffic jams](https://www.youtube.com/watch?v=W_kYXpAEnd8) or [rendering floods](https://www.youtube.com/watch?v=d9o5jwaFkP8). In those cases, agent based modeling is more practical because it appears more natural to assign behaviours to components than to the global system, which is often impossible because of its chaotic nature.
 
+In practical, software agents have many benefits. They can have a positive impact on our lives, making it easier either from a comfort or assistance point of view. Their ubiquitous presence in today's life style makes us almost forget that we live with them.
+
 ### Agent softwares In the future
 Now that we have stated our understanding of agent based softwares, we will try to imagine what might change about them in the next ten years. Of course, we assume we are allowed to be a little more creative in this part.
 
