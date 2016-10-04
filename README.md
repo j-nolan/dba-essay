@@ -1,4 +1,3 @@
-# DBA essay
 The essay is also available as:
 - [PDF](essay.pdf)
 
